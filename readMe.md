@@ -40,3 +40,11 @@ SmartPark is a RESTful web application built using Spring Boot 3 and Java 21. It
 ```bash
 git clone https://github.com/vincolia/SmartPark.git
 cd smartpark
+```
+---
+
+## 🕒 API Collection
+
+You can download the Postman collection here
+
+[Smart Park.postman_collection.json](https://github.com/user-attachments/files/22580585/Smart.Park.postman_collection.json)
